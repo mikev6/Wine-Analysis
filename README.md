@@ -33,6 +33,7 @@ https://github.com/mikev6/Wine-Analysis/blob/main/modeling/Linear%20Regression%2
 
 # Packages and Software
 These were the packages and the versions I used:
+
   pandas version is  1.0.5
   
   numpy version is  1.18.5
