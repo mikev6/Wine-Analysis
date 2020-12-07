@@ -34,7 +34,11 @@ https://github.com/mikev6/Wine-Analysis/blob/main/modeling/Linear%20Regression%2
 # Packages and Software
 These were the packages and the versions I used:
   pandas version is  1.0.5
+  
   numpy version is  1.18.5
+  
   matplotlib version is  3.2.2
+  
   seaborn version is  0.10.1
+  
   sklearn version is 0.23.1
