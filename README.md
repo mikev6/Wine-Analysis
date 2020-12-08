@@ -22,6 +22,9 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 
 # Table of Content
 
+The technical report is located here:
+https://github.com/mikev6/Wine-Analysis/blob/main/Technical%20Report/Technical%20Report.ipynb
+
 A copy of the data is located here:
 https://github.com/mikev6/Wine-Analysis/tree/main/data
 
